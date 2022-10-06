@@ -5,5 +5,5 @@ An ML-based technique, based on linear multi-regression modeling, has been adopt
 for refurbished cell phones and tablets, while device attributes such as year of release, camera resolution, brand, operating
 system, 4G/5G capability, etc.have been used as regressors. 
 
-Key tools: Multi-Regression, Linear Regression Assumptions, Statistical Tests
+Key tools: Multi-Regression, Linear Regression Assumptions, Statistical Tests <br>
 Libraries: scikit-learn, statsmodels.api, matplotlib, seaborn, numoy, pandas  
