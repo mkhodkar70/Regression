@@ -1,7 +1,7 @@
 # Regression
 Regression-Based Modeling:
 
-1) 
+1) Dynamic pricing of used cell phones (ReCell_Phone_Pricing)
 An ML-based technique, based on linear multi-regression modeling, has been adopted for devising a dynamic pricing strategy 
 for refurbished cell phones and tablets, while device attributes such as year of release, camera resolution, brand, operating
 system, 4G/5G capability, etc. have been used as regressors. 
