@@ -9,7 +9,7 @@ Key tools: Multi-Regression, Linear Regression Assumptions, Statistical Tests <b
 Libraries: scikit-learn, statsmodels.api, matplotlib, seaborn, numpy, pandas  
 
 
-1) Prediction of Annual Turnover of Restaurants (ReCell_Phone_Pricing): <br>
+1) Prediction of Annual Turnover of Restaurants (Indian_Restaurants): <br>
 Linear regression along with regularization techiniques (ridge regression and LASSO) has been leveraged to build an ML model
 capable of foreecasting the revenue generation of Indian-based restaurants using their attributes such as years since opening,
 social media popularity, location, available amenities (e.g., parking, live music or live sports), hygiene, responsiveness and
